@@ -89,8 +89,8 @@
 
 /* fjalla one */
 @font-face {
-  font-family: "Bebas Neue";
-  src: url("../fonts/bebasneuebold/bebasneuebold.woff2") format("woff2"), url("../fonts/bebasneuebold/bebasneuebold.woff") format("woff"), url("../fonts/bebasneuebold/bebasneuebold.ttf") format("truetype");
-  font-weight: normal;
-  font-style: normal;
+    font-family: 'Bebas Neue';
+    src: local('Bebas Neue Bold'), local('BebasNeueBold'), url('http://hb.bizmrg.com/fonts/bebasneue/700.woff2') format('woff2'), url('http://hb.bizmrg.com/fonts/bebasneue/700.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
 }
