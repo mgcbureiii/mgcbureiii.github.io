@@ -93,7 +93,6 @@ body {
   font-family: var(--font-regular);
   display: flex;
   flex-direction: column;
-  height: 100vh;
 }
 
 .is-header-alignment-vertical-top body {
